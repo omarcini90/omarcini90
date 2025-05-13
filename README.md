@@ -6,69 +6,93 @@
 📧 Ing.omar.fi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/omar-martinez-jimenez-90) | [GitHub](https://github.com/Development-Software)  
 
----
+<table>
+  <tr>
+    <td>
 
-### 🚀 I'm currently working on / Actualmente estoy trabajando en:
-🔧 I'm working as a freelance developer, applying all my experience in backend development, system integration, and API design.  
-💼 I'm open to new job opportunities where I can contribute with my skills in Python, FastAPI, ERP integration (Ellucian Banner), and automation of financial and educational systems.
-
-🔧 Actualmente trabajo como freelance, aplicando toda mi experiencia en desarrollo backend, integración de sistemas y diseño de APIs.  
-💼 Estoy abierto a nuevas oportunidades laborales donde pueda aportar mis conocimientos en Python, FastAPI, integración ERP (como Ellucian Banner) y automatización de sistemas financieros y educativos.
-
----
-
-### 🤝 I'm looking to collaborate on / Busco colaborar en:
-🔗 Backend development projects  
-🔄 System integration tasks  
-⚙️ Process automation in educational or fintech environments
-
-🔗 Proyectos de desarrollo backend  
-🔄 Tareas de integración de sistemas  
-⚙️ Automatización de procesos en entornos educativos o fintech
+### 🚀 I'm currently working on  
+🔧 Working as a freelance developer  
+💼 Open to backend, API & ERP opportunities  
 
 ---
 
-### 🆘 I'm looking for help with / Busco ayuda con:
-☁️ Implementing scalable cloud architectures  
-🔁 Improving DevOps practices and CI/CD pipelines
-
-☁️ Implementación de arquitecturas escalables en la nube  
-🔁 Mejora de prácticas DevOps y pipelines de CI/CD
+### 🤝 I'm looking to collaborate on  
+🔗 Backend development  
+🔄 System integration  
+⚙️ Automation (EdTech & Fintech)  
 
 ---
 
-### 📚 I'm currently learning / Actualmente estoy aprendiendo:
-☕ Advanced Java programming  
-🗣️ English fluency through courses at *The Anglo*
-
-☕ Programación avanzada en Java  
-🗣️ Inglés conversacional y técnico a través de cursos en *The Anglo*
+### 🆘 I'm looking for help with  
+☁️ Scalable cloud architectures  
+🔁 CI/CD & DevOps practices  
 
 ---
 
-### 💬 Ask me about / Pregúntame sobre:
-🐍 Python development  
-🧩 ERP integrations (e.g. Ellucian Banner)  
-⚡ FastAPI and microservices  
-🔌 API design & data modeling  
-🎓 EdTech and Fintech system architecture
+### 📚 I'm currently learning  
+☕ Advanced Java  
+🗣️ English (The Anglo)  
 
+---
+
+### 💬 Ask me about  
+🐍 Python  
+🧩 ERP (Banner)  
+⚡ FastAPI  
+🔌 APIs & Data modeling  
+🎓 EdTech & Fintech  
+
+---
+
+### 🎉 Fun fact  
+🛠️ Built Mattilda.io's MVP & production in 6 months as freelancer  
+💼 Later joined their dev team  
+
+    </td>
+    <td>
+
+### 🚀 Actualmente estoy trabajando en  
+🔧 Como freelance en backend, APIs e integración  
+💼 Abierto a nuevas oportunidades  
+
+---
+
+### 🤝 Busco colaborar en  
+🔗 Desarrollo backend  
+🔄 Integración de sistemas  
+⚙️ Automatización en EdTech o Fintech  
+
+---
+
+### 🆘 Busco ayuda con  
+☁️ Arquitecturas en la nube  
+🔁 DevOps y pipelines CI/CD  
+
+---
+
+### 📚 Actualmente aprendiendo  
+☕ Java avanzado  
+🗣️ Inglés en The Anglo  
+
+---
+
+### 💬 Pregúntame sobre  
 🐍 Desarrollo en Python  
-🧩 Integraciones ERP (como Ellucian Banner)  
-⚡ FastAPI y microservicios  
-🔌 Diseño de APIs y modelado de datos  
-🎓 Arquitectura de sistemas en EdTech y Fintech
+🧩 Integración con Banner ERP  
+⚡ FastAPI  
+🔌 Diseño de APIs  
+🎓 Arquitectura EdTech y Fintech  
 
 ---
 
-### 🎉 Fun fact / Dato curioso:
-🛠️ I developed the MVP and first production environment for the fast-growing fintech **[Mattilda.io](https://www.mattilda.io/)** in just 6 months as a freelancer.  
-💼 After that success, I joined their internal development team.
+### 🎉 Dato curioso  
+🛠️ Desarrollé el MVP y el ambiente productivo de Mattilda.io como freelance  
+💼 Luego me uní al equipo de desarrollo  
 
-🛠️ Desarrollé el MVP y el primer ambiente productivo de la fintech de rápido crecimiento **[Mattilda.io](https://www.mattilda.io/)** en solo 6 meses como freelance.  
-💼 Después de ese éxito, me integré a su equipo interno de desarrollo.
+    </td>
+  </tr>
+</table>
 
----
 
 > 💡 *“I believe technology should create real impact. I lead with empathy, build with purpose, and never stop learning.”*  
 > 💡 *"Creo que la tecnología debe generar impacto real. Lidero con empatía, construyo con propósito y nunca dejo de aprender."*
