@@ -1,98 +1,54 @@
-## 👋 ¡Hola! / Hello!
+## 👋 Hello there! I'm Omar Martínez Jiménez
 
-🧑‍💻 **Omar Martínez Jiménez**  
-🎯 *Engineering Manager | Tech Lead | Software Architect*  
-📍 Ciudad de México | 🇲🇽  
-📧 Ing.omar.fi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/omar-martinez-jimenez-90) | [GitHub](https://github.com/Development-Software)  
-
-<table>
-  <tr>
-    <td>
-
-### 🚀 I'm currently working on  
-🔧 Working as a freelance developer  
-💼 Open to backend, API & ERP opportunities  
+🎯 **Engineering Manager | Tech Lead | Software Architect**  
+🚀 Passionate about solving real-world problems through code and leading technical teams with empathy.
 
 ---
 
-### 🤝 I'm looking to collaborate on  
-🔗 Backend development  
-🔄 System integration  
-⚙️ Automation (EdTech & Fintech)  
+### 💼 I'm currently working on:
+I'm currently working as a **freelance developer**, applying over 8 years of experience in:
+- 🔧 Backend development with **Python**, **FastAPI**, and **Flask**
+- 🔗 System integration with **ERP platforms** (e.g., *Ellucian Banner*)
+- ☁️ Cloud deployment and microservices architecture
+- 🔁 Automation of financial and educational platforms
+
+🧭 I'm open to new opportunities where I can contribute as a Tech Lead, Engineering Manager, or Software Architect.
 
 ---
 
-### 🆘 I'm looking for help with  
-☁️ Scalable cloud architectures  
-🔁 CI/CD & DevOps practices  
+### 🤝 I'm looking to collaborate on:
+- 🔙 Backend projects with real impact  
+- 🧬 System integration initiatives in **edtech** or **fintech**  
+- ⚙️ Process automation and cross-functional collaboration
 
 ---
 
-### 📚 I'm currently learning  
-☕ Advanced Java  
-🗣️ English (The Anglo)  
+### 🆘 I'm looking for help with:
+- ☁️ Designing **scalable cloud architectures**  
+- 🔄 Improving **CI/CD pipelines** and **DevOps practices**  
+- 🛠️ Building high-availability distributed systems
 
 ---
 
-### 💬 Ask me about  
-🐍 Python  
-🧩 ERP (Banner)  
-⚡ FastAPI  
-🔌 APIs & Data modeling  
-🎓 EdTech & Fintech  
+### 📚 I'm currently learning:
+- ☕ **Advanced Java programming** to expand my backend toolbox  
+- 🇬🇧 **English fluency improvement** at *The Anglo* (B1 level currently)
 
 ---
 
-### 🎉 Fun fact  
-🛠️ Built Mattilda.io's MVP & production in 6 months as freelancer  
-💼 Later joined their dev team  
-
-    </td>
-    <td>
-
-### 🚀 Actualmente estoy trabajando en  
-🔧 Como freelance en backend, APIs e integración  
-💼 Abierto a nuevas oportunidades  
+### 💬 Ask me about:
+- 🐍 **Python development**
+- 🔗 **ERP Integrations** (e.g., *Ellucian Banner*)
+- ⚡ **FastAPI** & **API Design**
+- 🧩 **System architecture**, **data modeling**, and **tech leadership**
 
 ---
 
-### 🤝 Busco colaborar en  
-🔗 Desarrollo backend  
-🔄 Integración de sistemas  
-⚙️ Automatización en EdTech o Fintech  
+### 😄 Fun fact:
+I developed the MVP and the first production environment of the fintech [Mattilda.io](https://mattilda.io) in just **6 months** — solo, as a freelancer.  
+🌱 Today, the platform is scaling fast, and I later joined their internal dev team to continue building its future.
 
 ---
-
-### 🆘 Busco ayuda con  
-☁️ Arquitecturas en la nube  
-🔁 DevOps y pipelines CI/CD  
-
----
-
-### 📚 Actualmente aprendiendo  
-☕ Java avanzado  
-🗣️ Inglés en The Anglo  
-
----
-
-### 💬 Pregúntame sobre  
-🐍 Desarrollo en Python  
-🧩 Integración con Banner ERP  
-⚡ FastAPI  
-🔌 Diseño de APIs  
-🎓 Arquitectura EdTech y Fintech  
-
----
-
-### 🎉 Dato curioso  
-🛠️ Desarrollé el MVP y el ambiente productivo de Mattilda.io como freelance  
-💼 Luego me uní al equipo de desarrollo  
-
-    </td>
-  </tr>
-</table>
-
 
 > 💡 *“I believe technology should create real impact. I lead with empathy, build with purpose, and never stop learning.”*  
 > 💡 *"Creo que la tecnología debe generar impacto real. Lidero con empatía, construyo con propósito y nunca dejo de aprender."*
