@@ -1,5 +1,78 @@
-# 💫 About Me:
-I'm currently working as a freelance developer, applying all my experience in backend development, system integration, and API design. I'm open to new job opportunities where I can contribute with my skills in Python, FastAPI, ERP integration (such as Ellucian Banner), and automation of financial and educational systems.<br>I'm looking to collaborate on backend development projects, system integration, and process automation in educational or fintech environments.<br>I'm looking for help with implementing scalable architectures in cloud environments and improving DevOps practices for continuous integration and deployment.<br>I'm currently learning advanced Java programming and improving my English fluency through courses at The Anglo.<br>Ask me about Python development, ERP integrations (like Ellucian Banner), FastAPI, or anything related to APIs, data modeling, and educational tech.<br>Fun fact: I developed the MVP and the first production environment of the fintech Mattilda.io in just 6 months while working as a freelancer. Today, the platform is experiencing significant growth, and after that project, I became part of their internal development team.
+## 👋 ¡Hola! / Hello!
+
+🧑‍💻 **Omar Martínez Jiménez**  
+🎯 *Engineering Manager | Tech Lead | Software Architect*  
+📍 Ciudad de México | 🇲🇽  
+📧 Ing.omar.fi@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-martinez-jimenez-90) | [GitHub](https://github.com/Development-Software)  
+
+---
+
+### 🚀 I'm currently working on / Actualmente estoy trabajando en:
+🔧 I'm working as a freelance developer, applying all my experience in backend development, system integration, and API design.  
+💼 I'm open to new job opportunities where I can contribute with my skills in Python, FastAPI, ERP integration (Ellucian Banner), and automation of financial and educational systems.
+
+🔧 Actualmente trabajo como freelance, aplicando toda mi experiencia en desarrollo backend, integración de sistemas y diseño de APIs.  
+💼 Estoy abierto a nuevas oportunidades laborales donde pueda aportar mis conocimientos en Python, FastAPI, integración ERP (como Ellucian Banner) y automatización de sistemas financieros y educativos.
+
+---
+
+### 🤝 I'm looking to collaborate on / Busco colaborar en:
+🔗 Backend development projects  
+🔄 System integration tasks  
+⚙️ Process automation in educational or fintech environments
+
+🔗 Proyectos de desarrollo backend  
+🔄 Tareas de integración de sistemas  
+⚙️ Automatización de procesos en entornos educativos o fintech
+
+---
+
+### 🆘 I'm looking for help with / Busco ayuda con:
+☁️ Implementing scalable cloud architectures  
+🔁 Improving DevOps practices and CI/CD pipelines
+
+☁️ Implementación de arquitecturas escalables en la nube  
+🔁 Mejora de prácticas DevOps y pipelines de CI/CD
+
+---
+
+### 📚 I'm currently learning / Actualmente estoy aprendiendo:
+☕ Advanced Java programming  
+🗣️ English fluency through courses at *The Anglo*
+
+☕ Programación avanzada en Java  
+🗣️ Inglés conversacional y técnico a través de cursos en *The Anglo*
+
+---
+
+### 💬 Ask me about / Pregúntame sobre:
+🐍 Python development  
+🧩 ERP integrations (e.g. Ellucian Banner)  
+⚡ FastAPI and microservices  
+🔌 API design & data modeling  
+🎓 EdTech and Fintech system architecture
+
+🐍 Desarrollo en Python  
+🧩 Integraciones ERP (como Ellucian Banner)  
+⚡ FastAPI y microservicios  
+🔌 Diseño de APIs y modelado de datos  
+🎓 Arquitectura de sistemas en EdTech y Fintech
+
+---
+
+### 🎉 Fun fact / Dato curioso:
+🛠️ I developed the MVP and first production environment for the fast-growing fintech **[Mattilda.io](https://www.mattilda.io/)** in just 6 months as a freelancer.  
+💼 After that success, I joined their internal development team.
+
+🛠️ Desarrollé el MVP y el primer ambiente productivo de la fintech de rápido crecimiento **[Mattilda.io](https://www.mattilda.io/)** en solo 6 meses como freelance.  
+💼 Después de ese éxito, me integré a su equipo interno de desarrollo.
+
+---
+
+> 💡 *“I believe technology should create real impact. I lead with empathy, build with purpose, and never stop learning.”*  
+> 💡 *"Creo que la tecnología debe generar impacto real. Lidero con empatía, construyo con propósito y nunca dejo de aprender."*
+
 
 
 ## 🌐 Socials:
